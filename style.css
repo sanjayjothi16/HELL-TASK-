@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(231, 225, 225);
+     color:rgb(232, 154, 59);
+ }
+ span{
+     display:flex;
+     align-items: center;
+     justify-content: center;
+     font-size: xx-large;
+     margin: 250px auto;
+  }
